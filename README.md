@@ -24,11 +24,12 @@
 ### 活用した技術
 #### API・データ
 * easyorc
-* 
+* translators
+* gooラボ 形態素解析API
 
 #### フレームワーク・ライブラリ・モジュール
-* translators
-* 
+* OpenCV
+* pillow
 
 #### デバイス
 * 
