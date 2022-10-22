@@ -1,6 +1,6 @@
 # 零→Fifty（プロダクト名）
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2022/08/JPHACKS2022_ogp.jpg)](https://www.youtube.com/watch?v=urcT3ClwzF0)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/82579409/197316622-d2352d24-6211-4f1e-898e-5660daf57972.gif)](https://www.youtube.com/watch?v=urcT3ClwzF0)
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
