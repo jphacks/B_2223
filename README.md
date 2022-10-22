@@ -11,10 +11,16 @@
 ### 製品説明（具体的な製品の説明）
 ### 特長
 #### 1. 特長1
+![認識](https://user-images.githubusercontent.com/97447938/197309536-736d01cd-7332-4506-ae58-1564fdcda35a.jpg)
+
 動画に出てくる文字を翻訳して表示します．
 #### 2. 特長2
+![正確性](https://user-images.githubusercontent.com/97447938/197309548-6bea047d-7c5a-4db7-b3bd-778390a5278e.jpg)
+
 翻訳した文字と原文を比較することができます．
 #### 3. 特長3
+![翻訳](https://user-images.githubusercontent.com/97447938/197309557-bb9a6f5c-75b2-4e23-bc80-0727ae589da6.jpg)
+
 
 ### 解決出来ること
 * 言語の壁を超えることができるため，自分の知らない言語のコンテンツを楽しむことができます．
