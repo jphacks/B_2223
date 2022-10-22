@@ -57,6 +57,8 @@
 
 ### 動画
 https://www.youtube.com/watch?v=urcT3ClwzF0
+Google Colaboratoryの環境で実装しました．
+環境内での動作確認済みです．
 
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
