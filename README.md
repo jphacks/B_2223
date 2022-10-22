@@ -57,6 +57,7 @@
 
 ### 動画
 https://www.youtube.com/watch?v=urcT3ClwzF0
+
 Google Colaboratoryの環境で実装しました．
 環境内での動作確認済みです．
 
